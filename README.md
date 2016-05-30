@@ -1,4 +1,4 @@
-# Bunny Gallery Service
+# Bunny Service Example
 ## Test setup
 * bundle install
 * db:test:prepare
